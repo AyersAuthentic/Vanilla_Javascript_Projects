@@ -4,3 +4,5 @@
 
 ## Project 1: Memory Game
 A simple card game where you need to match pairs by turning over 2 cards at a time. 
+
+Link: [Memory Game](https://ayersauthentic.github.io/Memory_Game/)
