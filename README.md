@@ -11,3 +11,8 @@ Link: [Memory Game](https://ayersauthentic.github.io/Memory_Game/)
 A simple grid-based game using HTML, CSS and JavaScript. The idea of whack-a-mole is simple! The player needs to hit the grid with the mole in as many times as possible until the time runs out. 
 
 Link: [Whack a Mole](https://ayersauthentic.github.io/whack_a_mole/)
+
+## Project 3: Color Picker
+A simple color picking application that generates random colors. Colors can be chosen using a simple list of colors or randomly generated as hex based color codes. 
+
+Link: [Color Picker](https://ayersauthentic.github.io/color_picker/)
