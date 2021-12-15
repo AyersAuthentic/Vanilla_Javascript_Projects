@@ -16,3 +16,8 @@ Link: [Whack a Mole](https://ayersauthentic.github.io/whack_a_mole/)
 A simple color picking application that generates random colors. Colors can be chosen using a simple list of colors or randomly generated as hex based color codes. 
 
 Link: [Color Picker](https://ayersauthentic.github.io/color_picker/)
+
+## Project 4: Counter
+A simple counter application in vanilla Javascript.
+
+Link: [Counter](https://ayersauthentic.github.io/counter/)
