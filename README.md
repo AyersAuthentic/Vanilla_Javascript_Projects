@@ -21,3 +21,8 @@ Link: [Color Picker](https://ayersauthentic.github.io/color_picker/)
 A simple counter application in vanilla Javascript.
 
 Link: [Counter](https://ayersauthentic.github.io/counter/)
+
+## Project 5: Reviews
+A simple reviews application in vanilla javascript.
+
+Link: [Reviews](https://ayersauthentic.github.io/reviews/)
