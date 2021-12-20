@@ -26,3 +26,8 @@ Link: [Counter](https://ayersauthentic.github.io/counter/)
 A simple reviews application in vanilla javascript.
 
 Link: [Reviews](https://ayersauthentic.github.io/reviews/)
+
+## Project 6: Quote Generator
+A random quote generating application. Randomly generated quotes can be directly sent to a twitter tweet.
+
+Link: [Quote Generator](https://ayersauthentic.github.io/quote_generator/)
